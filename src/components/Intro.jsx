@@ -48,7 +48,7 @@ const Intro = () => {
         </li>
 
         
-        <a href="/src/assets/CV.pdf" download="cv.pdf" locale={false} className="download-button">
+        <a href="\public\cv.pdf" download="cv.pdf" locale={false} className="download-button">
         <button>Download CV</button>
         </a>
         
